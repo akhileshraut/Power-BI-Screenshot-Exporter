@@ -30,7 +30,7 @@ That small experiment turned into two different versions of the tool.
 
 # 🖱️ Version 1 — Manual Navigation
 
-**File:**
+[View Manual Version](http://powerbi_capture_manual.py)
 
 ```text
 powerbi_screenshot_manual.py
@@ -75,7 +75,7 @@ The script also performs an additional rendering process using scrolling and bro
 
 # 🤖 Version 2 — Automatic Navigation
 
-**File:**
+[View Automatic Version](http://powerbi_capture_auto.py)
 
 ```text
 powerbi_screenshot_auto.py
