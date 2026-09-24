@@ -230,7 +230,7 @@ playwright install chromium
 Run:
 
 ```bash
-python powerbi_screenshot_manual.py
+python PowerBI_Capture_Manual.py
 ```
 
 Enter your public Power BI report URL:
@@ -265,7 +265,7 @@ Navigate to each report page manually and press Enter when the page is ready.
 Run:
 
 ```bash
-python powerbi_screenshot_auto.py
+python PowerBI_Capture_Auto.py
 ```
 
 Enter the public Power BI report URL.
